@@ -1,5 +1,4 @@
-### 
-: ALU Design (Basic)**  
+ ALU Design (Basic)  
 
 #### **Concept Overview**  
 An **Arithmetic Logic Unit (ALU)** is a fundamental component of a processor that performs arithmetic and logic operations. It is a combinational circuit that executes functions such as **addition, subtraction, AND, OR, XOR, and comparison**. ALUs are essential in microprocessors, digital signal processors (DSPs), and custom hardware accelerators.  
